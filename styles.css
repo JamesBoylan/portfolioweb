@@ -49,7 +49,7 @@ body {
   }
 }
 
-#slide1::before {
+#slide1 {
   background-image: url("https://cdn.discordapp.com/attachments/638831757503889409/647515534983823440/Hom_page_background.PNG");
   
   background-position: center;
@@ -62,7 +62,7 @@ body {
   background-position: center;
   background-width: 100%;
 }
-#slide3::before {
+#slide3 {
   background-image: url("https://cdn.discordapp.com/attachments/556862731446255617/654401736940716043/Projects_fixes.PNG");
   background-size: 100%;
 }
