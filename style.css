@@ -58,14 +58,14 @@
  #slide3::before {
 	 background-image: url("https://cdn.discordapp.com/attachments/556862731446255617/654401736940716043/Projects_fixes.PNG");
 	 background-size: 100%;
+	 background-repeat: no-repeat;
+	 background-position: center;
 }
  #slide4 {
 	 background-image: url("https://cdn.discordapp.com/attachments/556862731446255617/654404058710278154/Capture12.PNG");
-	 background-position: center;
 	 background-size: 100%;
-	 
 	 background-repeat: no-repeat;
-	 background-color: #004d99;
+	 background-position: center;
 }
  #slide5 {
 	 background-image: url('https://cdn.discordapp.com/attachments/638831757503889409/655130697106849831/messagepage.PNG');
