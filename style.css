@@ -65,7 +65,7 @@ body {
 #slide3 {
   background-image: url("https://cdn.discordapp.com/attachments/556862731446255617/654401736940716043/Projects_fixes.PNG");
   background-size: 100%;
-  
+  background-repeat: no-repeat;
 }
 
 #slide4 {
